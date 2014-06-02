@@ -7,7 +7,7 @@ Use a raspberry-pi as a remote video display controller.
 
 ### After Boot ###
 
-Clear screen after boot and diplay custom message.
+Clear screen after boot and display custom message.
 
 Insert in bash file and execute with `sudo`:
 
